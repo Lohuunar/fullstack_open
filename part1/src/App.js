@@ -11,7 +11,7 @@ function Hello(props){
   )
 }
 function App() {
-  const name = 'Ileana'  
+  const name = 'Vin'  
   return (
     <div className="App">
       <header className="App-header">
