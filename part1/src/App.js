@@ -5,7 +5,7 @@ function Hello(props){
   return(
     <div>      
       <p>
-        Hello {props.name}
+        Hello {props.name} tu mama es puta
       </p>    
     </div>
   )
